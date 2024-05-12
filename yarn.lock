@@ -1156,12 +1156,12 @@ __metadata:
   linkType: hard
 
 "chai-bn@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "chai-bn@npm:0.3.0"
+  version: 0.3.1
+  resolution: "chai-bn@npm:0.3.1"
   peerDependencies:
     bn.js: ^5.0.0
     chai: ^4.0.0
-  checksum: 2a5f3d48e1f068c1e8a1cbd8f64e7f9183a490ea62347f1ea73949cca0f556c499945bfd74f5a82ba9e93d144fca422200adabc0acd83392fbf46de3b652f2f2
+  checksum: 316a82b98df2a1e66edeee0e835fd7b418c3b5e1794b69264eb76be65d1ecea1f3a9ce2f1f94ec7f0f6964c579c2986999d7bcab98d30f9160ec753b4fdfd692
   languageName: node
   linkType: hard
 
