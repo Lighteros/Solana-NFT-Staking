@@ -217,7 +217,7 @@ __metadata:
     "@types/chai": ^4.2.22
     "@types/lodash.mapvalues": ^4.6.6
     "@types/mocha": ^9.0.0
-    "@types/node": ^16.11.10
+    "@types/node": ^22.0.3
     "@types/prettier": ^2.4.2
     bn.js: ^5.2.0
     chai: ^4.3.4
@@ -526,7 +526,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^16.11.10":
+"@types/node@npm:*":
   version: 16.11.11
   resolution: "@types/node@npm:16.11.11"
   checksum: 1c472bd63f23ca0e4effc96e6e0c693b83b027f613a1f41b6d1bd7791f65ce171a351e0a5c92575cb59e84ad0a930875397bfbbb91a7c925ddbbb558f7461af8
@@ -537,6 +537,15 @@ __metadata:
   version: 12.20.37
   resolution: "@types/node@npm:12.20.37"
   checksum: 8c8b12f802678b3b87c5344b6c84082be08561dda81dc161d42be8cd327330d1a5227cef039c45a5e63a6d4a01ef5ef215dccc42d06100f59f6a8814b4f91cdd
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^22.0.3":
+  version: 22.0.3
+  resolution: "@types/node@npm:22.0.3"
+  dependencies:
+    undici-types: ~6.11.1
+  checksum: bde96612025eaf3f2c17fc9a16ff4539ac16d6f4fa76d01efc9370ec780f15241caf252d6f2923a6d6bb0ba4f0e220f2b478edd92f54567c0356971cd6098159
   languageName: node
   linkType: hard
 
@@ -4320,6 +4329,13 @@ __metadata:
     has-symbols: ^1.0.2
     which-boxed-primitive: ^1.0.2
   checksum: 89d950e18fb45672bc6b3c961f1e72c07beb9640c7ceed847b571ba6f7d2af570ae1a2584cfee268b9d9ea1e3293f7e33e0bc29eaeb9f8e8a0bab057ff9e6bba
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~6.11.1":
+  version: 6.11.1
+  resolution: "undici-types@npm:6.11.1"
+  checksum: d7fc11bded93bc55ef3b88464e856ab061a747cf50ef2eff5df5ba3be18b9fcafe60e1b36a8c99e28aac2eade12891d32a504f2a32422452c44662e598e3b188
   languageName: node
   linkType: hard
 
